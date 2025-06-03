@@ -13,3 +13,14 @@
 ### Requirements
 - No install needed-Colab proloads all libraries.
 - Ensure Colab's runtime is Python 3 (default).
+
+## 🔐 Environment Variables (`.env` file)
+
+The `download.py` script requires a `.env` file to manage API credentials securely. This file should be located in the project root and **must not be committed** to version control.
+
+### 📝 Example `.env` file
+
+```env
+# EPA AQS API credentials
+API_KEY=apiKeyFromUsEPA
+EMAIL=emailUsedToSignUpOnUsEPA
