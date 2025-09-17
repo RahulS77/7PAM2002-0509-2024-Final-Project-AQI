@@ -2,10 +2,10 @@
 
 ## How to Run It
 ### Open in Colab
-- **Download** `Final_Project.ipynb` from this repo.
+- **Download** `7PAM2002_0509_2024_Rahul_Shah.ipynb` from this repo.
 - **Upload** to Google Colab via **"File > Upload Notebook"**.
 - Or, click this badge:  
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pox5hu4tUmWrioLmCc0J3zXw1JLqUttj?usp=sharing)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZinhYwBctHqqJKCIeA76GF3J9T2wu9Uv)
 
 ### Run It
 - Hit **"Runtime > Run All"** (or `Ctrl+F9`)
